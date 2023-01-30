@@ -9,12 +9,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nitin31mohan&theme=vue&show_icons=true&count_private=true)
  
- #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nitin31mohan)
-
 #### 📫 You can reach me at ...
 
-[![Mail Badge](https://img.shields.io/badge/-mnitin31-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mnitin31@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mnitin31-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.nitin.4444@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Nitin_Mohan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinmohan31/)
 [![Mail Badge](https://img.shields.io/badge/-@m.nitin.31-5851DB?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://www.instagram.com/m.nitin.31/)
